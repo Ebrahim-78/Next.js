@@ -8,9 +8,9 @@ export default function Navbar() {
             src={logo}
             alt="Dojo helpDesk"
         </image> */}
-        <h1 id='Title'>منصة تغطية تسويقية خدماتية</h1>
-        <Link href="/"> عن المنصة </Link>
-        <Link href="/tickets">تقديم طلب</Link>
+        <h1 id='Title'> Do JoHelpdesk</h1>
+        <Link href="/">Dashboard</Link>
+        <Link href="/tickets"> tickets </Link>
     </nav>
     )
 }

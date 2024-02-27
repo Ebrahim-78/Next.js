@@ -25,7 +25,7 @@ nav {
   @apply
     pb-4
     border-b-2 border-gray-200
-    /* items-end gap-10 */
+    flex items-end gap-10
     my-10 mx-auto 
     max-w-5xl;
        
