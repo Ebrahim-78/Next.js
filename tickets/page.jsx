@@ -6,7 +6,7 @@ export default function Tickets() {
       <nav>
         <div>
           <h2>Tickets</h2>
-          <p><small>Currently open tickets.</small></p>
+          <p><small>Currently open tickets</small></p>
         </div>
       </nav>
       <TicketList />
